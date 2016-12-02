@@ -1,0 +1,27 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "x",
+		"cfenv": "x",
+		"fs": "x",
+		"path": "x",
+		"errorhandler": "x",
+		"body-parser": "x",
+		"express-session": "x",
+		"socket.io": "x",
+		"http": "x",
+		"pkgcloud": "x",
+  		"multer": "x",
+  		"multer-storage-pkgcloud": "x",
+  		"imagemagick": "x"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	} 
+}
